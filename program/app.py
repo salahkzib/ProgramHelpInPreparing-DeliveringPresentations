@@ -1,4 +1,4 @@
-import mainmenu_design as md
+import MainMenuDesign as md
 import customtkinter as ctk
 
 class App:

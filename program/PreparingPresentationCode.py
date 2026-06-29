@@ -1,5 +1,5 @@
 import customtkinter as ctk
-import  delivering_presentation_design as dpd
+import  DeliveringPresentationDesign as dpd
 from PIL import Image
 import  numpy
 

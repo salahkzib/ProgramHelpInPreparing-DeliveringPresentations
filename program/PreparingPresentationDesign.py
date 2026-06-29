@@ -1,5 +1,5 @@
 import customtkinter as ctk
-import preparing_presentation_code as ppc
+import PreparingPresentationCode as ppc
 
 class ProgramDesign:
 
