@@ -16,7 +16,6 @@ class ProgramDesign:
         BtnCollaboration = ctk.CTkButton(program,text = "collaboration", command=lambda :self.LoadPage(self, program, cd.ProgramDesign()))
         BtnCollaboration.pack()
 
-
     def LoadPage(self, program, PartDesign):
         for child in program.winfo_children():
             child.destroy()
